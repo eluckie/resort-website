@@ -1,18 +1,18 @@
 body {
-  background-color: rgb(180, 236, 180);
+  background-color: rgb(222, 136, 243);
 }
 
 h1 {
-  color: green;
+  color: purple;
 }
 
 h2 {
-  color: darkgreen;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: darkorchid;
+  font-family:'Courier New', Courier, monospace
 }
 
 p {
-  color: forestgreen;
+  color: rgb(60, 8, 101);
   font-style: italic;
 }
 
